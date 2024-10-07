@@ -1,6 +1,6 @@
 <?php
          $favcolor="verd";
-         switch ($favcolor) {
+         switch ($favcolor1) {
           case "vermell":
           case "VERMELL":
               echo "el color es vermell!";
